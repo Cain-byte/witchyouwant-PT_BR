@@ -1,2 +1,1 @@
-# witchyouwant-PT_BR
-Um tradução de fã para a VN witchyouwant-1.0-pc
+📌Esta tradução não possui fins comerciais nem está associada aos criadores do jogo. Trata-se de um trabalho gratuito, feito por fãs para outros fãs. Pedimos que respeite a propriedade intelectual original e utilize os canais oficiais para adquirir o produto.
