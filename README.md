@@ -1,4 +1,9 @@
+<div  align="center">
+<img src="thumbnail.png" alt="Cain-byte" width="700" style="display:block; margin: 10px auto;">
+</div>
+<hr />
 📁 No ../games/screens.rpy, eu adicionei a seguinte linha de código para opção ficar disponível:
+
 ```
 #Menu de idiomas 
                 vbox:
